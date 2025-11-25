@@ -1,19 +1,16 @@
-# Sales Data Analytics
+# Student Record System (C++)
 
-A beginner-friendly data analysis project using Python and Pandas.
+A simple console-based student record system using:
 
-### Files Included
-- `sales.csv` — Sample sales dataset  
-- `analysis.ipynb` — Notebook with analysis  
-- Summary statistics, region-wise sales, bar charts  
+- Classes and Objects  
+- File Handling  
+- Basic CRUD (Add + View)
 
-### Skills Demonstrated
-✔ Data cleaning  
-✔ Data exploration  
-✔ Grouping & aggregation  
-✔ Simple visualizations  
+### Features
+✔ Add student details  
+✔ Save records in `students.txt`  
+✔ View all saved student records  
+✔ Menu-driven program  
 
 ### How to run
-- Open the notebook in **Jupyter Notebook** or **Google Colab**  
-- Upload `sales.csv`  
-- Run all cells  
+1. Compile the file:
